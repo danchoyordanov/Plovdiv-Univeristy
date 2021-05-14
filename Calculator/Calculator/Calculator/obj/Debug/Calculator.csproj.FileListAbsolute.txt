@@ -1,0 +1,63 @@
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\samante\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\John Leo's Documents\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programming\Pet Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Programming\Pet Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Programming\Pet Projects\Desktop Apps\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.exe
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\bin\Debug\Calculator.exe
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Programming\Pet Projects\Desktop Apps\Calculator (C#)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Programming\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programming\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Programming\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Clive\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Clive\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Clive\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Clive\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
