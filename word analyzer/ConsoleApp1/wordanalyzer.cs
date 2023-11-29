@@ -99,7 +99,7 @@ class wordanalyzer
     {
         var wordFrequency = GetWordFrequency(words);
 
-        // Order by frequency and take the bottom 'count' words
+        
         return wordFrequency.Keys
             .OrderBy(word => wordFrequency[word])
             .Take(count)
